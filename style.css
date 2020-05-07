@@ -1,0 +1,25 @@
+/* .jumbotron{
+margin-bottom: 0rem;
+background-color: royalblue;
+} */
+
+.navbar-nav a{
+    margin-right: 5px;
+}
+
+.navbar-nav a:hover{
+    background-color: royalblue !important;
+    /* border-radius: 18px !important; */
+    padding: 8px 16px;
+    border-radius: 30px;
+}
+
+.active a{
+    background-color: royalblue !important;
+    padding: 8px 16px;
+    border-radius: 30px;
+}
+
+.navbar .nav-item:hover{
+    border-radius: 0px; 
+ }
